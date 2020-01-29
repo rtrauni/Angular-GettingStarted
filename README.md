@@ -1,3 +1,8 @@
+# Next Assignment: 
+https://app.pluralsight.com/course-player?clipId=eba0b253-1843-47f1-a77b-017c242d2786
+
+Checklists and Summary: Homework :-) 
+
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
